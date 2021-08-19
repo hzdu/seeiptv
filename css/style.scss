@@ -1,0 +1,33 @@
+.languagelist{
+  list-style-type:none;
+  margin:0;
+  width:100%;
+}
+.languagelist li{
+  width:80px;
+  float:left;
+}
+.languagelist li a{
+  font-size: 1.2rem;
+  color: #F3F3F3;
+}
+.paybutton{
+  width: 100%;
+}
+.paybutton ul li{
+  list-style: none;
+  padding: 10px;
+}
+.paybutton ul li a{
+  width: 160px;
+  height: 34px;
+  border: none;
+  background: no-repeat;
+}
+
+.paybutton ul form input{
+  width: 160px;
+  height: 34px;
+  border: none;
+  background: no-repeat;
+}
